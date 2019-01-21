@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/intelFPGA_lite/17.0/LAB1/LAB1.bdf
+source_file = 1, C:/intelFPGA_lite/17.0/LAB1/db/LAB1.cbx.xml
+design_name = LAB1
+instance = comp, \SUM~output , SUM~output, LAB1, 1
+instance = comp, \CARRY~output , CARRY~output, LAB1, 1
+instance = comp, \A~input , A~input, LAB1, 1
+instance = comp, \B~input , B~input, LAB1, 1
+instance = comp, \C~input , C~input, LAB1, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, LAB1, 1
