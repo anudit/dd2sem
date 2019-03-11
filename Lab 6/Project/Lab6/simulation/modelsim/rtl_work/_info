@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/intelFPGA_lite/18.1]/Lab6/simulation/modelsim
+vadder
+Z1 !s110 1552297367
+!i10b 1
+!s100 U>z8K1RAEIW>H@zNOh6P^0
+I42dzWnK5[JH2:@>d]>Zch3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1552296792
+Z4 8D:/intelFPGA_lite/18.1]/Lab6/adder.v
+Z5 FD:/intelFPGA_lite/18.1]/Lab6/adder.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1552297367.000000
+Z8 !s107 D:/intelFPGA_lite/18.1]/Lab6/adder.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/intelFPGA_lite/18.1]/Lab6/adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfull
+!s110 1552297355
+!i10b 1
+!s100 ];iQN=TKgB4ZI_=>5PBB[0
+I=lT>O;SnZO7fAkV6IcXCR3
+R2
+R0
+w1552296769
+8D:/intelFPGA_lite/18.1]/Lab6/full.v
+FD:/intelFPGA_lite/18.1]/Lab6/full.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1552297355.000000
+!s107 D:/intelFPGA_lite/18.1]/Lab6/full.v|
+!s90 -reportprogress|300|-work|work|D:/intelFPGA_lite/18.1]/Lab6/full.v|
+!i113 1
+R10
+R11
+vhalf
+!s110 1552297333
+!i10b 1
+!s100 _gdeOOA[5j?JU98JU0FiB0
+I2DFIETASh>fRCBH__dNP61
+R2
+R0
+w1552296746
+8D:/intelFPGA_lite/18.1]/Lab6/half.v
+FD:/intelFPGA_lite/18.1]/Lab6/half.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1552297333.000000
+!s107 D:/intelFPGA_lite/18.1]/Lab6/half.v|
+!s90 -reportprogress|300|-work|work|D:/intelFPGA_lite/18.1]/Lab6/half.v|
+!i113 1
+R10
+R11
+vtest
+R1
+!i10b 1
+!s100 YLa6^d?=>ZROQ<0DoTCof2
+I6WaUIV`AM2EK<TTh[Pjl_3
+R2
+R0
+R3
+R4
+R5
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
