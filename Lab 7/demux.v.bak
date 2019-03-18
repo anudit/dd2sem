@@ -1,0 +1,15 @@
+module demux(i,o1,o2,o3,o4,s0,s1);
+input i;
+input s1,s0;
+output o1,o2,o3,o4;
+reg i;
+always@(i or s0 or s1)
+begin;
+case({s1,s0})
+	2'b00:i=o1;
+	2'b01:i=o2;
+	2'b10:i=o3;
+	2'b11:i=o4;
+	default:$display("Invalid");
+	endcase
+endmodule
